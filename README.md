@@ -24,6 +24,6 @@ You can get started by parsing `countries.json` or `countries.min.json`
 				"path": "./flags_285x171/afghanistan.png"
 			}
 		]
-        }
+	}
 ]
 ```
